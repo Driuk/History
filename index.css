@@ -1,0 +1,29 @@
+.mahno2 {
+  background-color: #d29f8c;
+  position: absolute ;
+  left:0px;
+  top:200;
+  width:150;
+  height:150;
+}
+
+.mahno3 {
+  background-color: #9dd28c;
+  position: absolute;
+  left: 0px;
+  top:0;
+  width:600;
+  height:0;
+}
+
+.mahno4 {
+  background-color: #8cbfd2;
+  position: absolute;
+  left: 320px;
+  top:30;
+  width:600;
+  height:0;
+  }
+  .raspberry {
+              color: blue;
+              }
