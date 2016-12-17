@@ -1,29 +1,40 @@
-.mahno2 {
-  background-color: #d29f8c;
-  position: absolute ;
-  left:0px;
-  top:200;
-  width:150;
-  height:150;
-}
 
-.mahno3 {
-  background-color: #9dd28c;
-  position: absolute;
-  left: 0px;
-  top:0;
-  width:600;
-  height:0;
-}
+  body {
+    background-color: #d2b48c;
 
-.mahno4 {
-  background-color: #d2b48c;
-  position: absolute;
-  left: 320px;
-  top:30;
-  width:10;
-  height:600;
+
   }
-  .raspberry {
-              color: blue;
-              }
+
+  h1,h2{
+
+     color: green;
+
+  }
+
+   .mahno1 {
+
+     padding-right:150px;
+     padding-left: 150px;
+     margin: 10px;
+
+    background-color: #d2b48c;
+
+   }
+
+   .nestor {
+   position: absolute;
+   left: 1px;
+   top:150;
+ }
+ .bat {
+   top:50;
+   padding-right:150px;
+   padding-left: 150px;
+
+
+  background-color: #d2b48c;
+ }
+  .mahno2 {
+  padding-right:5px;
+  margin: 10px; 
+  }
