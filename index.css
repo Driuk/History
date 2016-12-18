@@ -22,9 +22,8 @@
    }
 
    .nestor {
-   position: absolute;
-   left: 1px;
-   top:150;
+     padding-right:150px;
+     padding-left: 150px;
  }
  .bat {
    top:50;
@@ -36,5 +35,5 @@
  }
   .mahno2 {
   padding-right:5px;
-  margin: 10px; 
+  margin: 10px;
   }
